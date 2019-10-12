@@ -1,0 +1,121 @@
+    1  sudo docker pull node
+    2  docker --version
+    3  sudo apt  install docker.io
+    4  docker --version
+    5  sudo snap install docker
+    6  sudo apt  install docker.io
+    7  sudo apt-get update
+    8  sudo apt-get remove docker docker-engine docker.io
+    9  sudo apt install docker.io
+   10  sudo systemctl start docker
+   11  sudo systemctl enable docker
+   12  docker pull hello-world
+   13  sudo docker pull node
+   14  sudo apt-get install java
+   15  sudo apt install java
+   16  sudo apt upgrade java
+   17  sudo apt install mysql
+   18  mysql -v
+   19  java -v
+   20  sudo apt install default-jre
+   21  sudo apt install openjdk-11-jre-headless
+   22  sudo apt install openjdk-8-jre-headless 
+   23  sudo apt install mysql-client-core-5.7
+   24  sudo apt install mariadb-client-core-10.1
+   25  docker --version
+   26  docker run hello-world
+   27  sudo docker run hello-world
+   28  docker -ps
+   29  sudo docker pull nginx
+   30  ls
+   31  mkdir Suyash
+   32  ls
+   33  sudo docker run --name docker-nginx -p 80:80 nginx
+   34  ls
+   35  sudo docker ps
+   36  cd Suyash/
+   37  nano Commands.txt
+   38  cd
+   39  cd Suyash/
+   40  cd
+   41  --version
+   42  git --version
+   43  git clone git@git@github.com:SuyashPatil99/Cloud-Computing.git
+   44  sudo git clone git@git@github.com:SuyashPatil99/Cloud-Computing.g
+   45  git clone https://github.com/SuyashPatil99/Cloud-Computing.git
+   46  ls
+   47  git clone https://github.com/Pushkar10/cloud-computing.git
+   48  ls
+   49  cd Suyash/
+   50  git clone https://github.com/SuyashPatil99/Cloud-Computing.git
+   51  cd
+   52  ls
+   53  rm -r Cloud-Computing/
+   54  rm -r Cloud-Computing
+   55  sudo chmod 777 Cloud-Computing/
+   56  rm -r Cloud-Computing
+   57  sudo chmod 444 Cloud-Computing/
+   58  rm -r Cloud-Computing
+   59  history
+   60  cd Suyash/
+   61  ls
+   62  cd Cloud-Computing/
+   63  ls
+   64  cd
+   65  ssh student@192.168.1.17
+   66  history
+   67  ls
+   68  history>>comands.txt
+   69  ls
+   70  nano.txt
+   71  nano comands.txt
+   72  ls
+   73  git init
+   74  git init https://github.com/Pushkar10/cloud-computing.git
+   75  cd https://github.com/Pushkar10/cloud-computing.git
+   76  mkdir Sample
+   77  cd
+   78  git remote add github git@github.com:Pushkar10/cloud-computing.git
+   79  git push -u github master
+   80  cd cloud-computing/
+   81  git remote add github git@github.com:Pushkar10/cloud-computing.git
+   82  git push -u github master
+   83  sudo git push -u github master
+   84  cd 
+   85  ls
+   86  git push comands.txt github master
+   87  git add comands.txt
+   88  git commit 
+   89  git commit comands.txt
+   90  git push comands.txt
+   91  git push --set-upstream comands.txt master
+   92  git init
+   93  git add .
+   94  git commit -m "First commit"
+   95  git remote add origin https://github.com/Pushkar10/cloud-computing.git
+   96  git remote -v
+   97  git push origin master
+   98  git commit comands.txt
+   99  git add comands.txt
+  100  git commit comands.txt
+  101  git commit -m comands.txt
+  102  pwd
+  103  https://github.com/Pushkar10/Lab
+  104  cd https://github.com/Pushkar10/Lab
+  105  git init
+  106  git add .
+  107  git commit -m "comands.txt"
+  108  git commit -m comands.txt
+  109  git commit -m "comands"
+  110  git remote add origin https://github.com/Pushkar10/Lab.git
+  111  git init
+  112  git add comands.txt
+  113  git commit -m "first commit"
+  114  git remote add origin https://github.com/Pushkar10/Lab.git
+  115  git push -u origin master
+  116  git init
+  117  git add comands.txt
+  118  git commit -m "My first file"
+  119  mkdir dir
+  120  cd dir
+  121  history >> command.txt
